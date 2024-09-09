@@ -1,2 +1,12 @@
 # Jetbrains
 .idea/
+
+# Mac
+.DS_Store
+
+# Env
+.env
+.cache
+
+# Tableu cache
+.~*
